@@ -33,7 +33,7 @@
   },
   "optionalDependencies": {
     "bluetooth-hci-socket": "~0.4.1",
-    "core-bluetooth": "sandeepmistry/node-core-bluetooth"
+    "core-bluetooth": "piotrdubiel/node-core-bluetooth"
   },
   "devDependencies": {
     "jshint": "latest",
