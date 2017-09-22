@@ -82,9 +82,9 @@ block-stream@*:
   dependencies:
     inherits "~2.0.0"
 
-bluetooth-hci-socket@~0.4.1:
-  version "0.4.4"
-  resolved "https://registry.yarnpkg.com/bluetooth-hci-socket/-/bluetooth-hci-socket-0.4.4.tgz#6093fb6c28116132448b69e2c20e2d6581301559"
+bluetooth-hci-socket@^0.5.1:
+  version "0.5.1"
+  resolved "https://registry.yarnpkg.com/bluetooth-hci-socket/-/bluetooth-hci-socket-0.5.1.tgz#efbe21524fc1cf5d3fae5d51365d561d4abbed0b"
   dependencies:
     debug "^2.2.0"
     nan "^2.0.5"
